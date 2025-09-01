@@ -1,6 +1,6 @@
 import { createContext, useState, useContext, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { dummyUserData } from "../assets/assets";
+import { dummyUserData, dummyChats } from "../assets/assets";
 
 const AppContext = createContext();
 
