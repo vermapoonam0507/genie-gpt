@@ -71,4 +71,20 @@
 
 // <==========================================================================================>
     //now go to Sidebar.jsx  in components:  add all things:
-//npm i moment in terminal
+//npm i moment in terminal [to convert this timestamps here we are going to use package called moment]
+//now we add som ebutottons to open the community page where it will display the public images.after that we will add the button for puchasing the credit and it will also display the available credit. then we wll display aa button to toggle the theame.now do the code in vs code
+
+
+//we have to add one close icon that will be used to close this sidebar on mobile screen. for that also we need to create one state and pass it in this sidebar component. so now let's work in app.jsx file.
+
+//now i want to implement it this property when anyone click on any where in sidebar yeh hide ho jaye in mobile phone.
+
+// Now sidebar is completed. next I move in ChatBox part. and create the chatbox components.
+
+
+//npm install react-markdown
+//npm install prismjs
+
+//message components
+
+//for login page we use tailwind prebuild ui| so for that open the web browser and search it prebuiltui , go to the components , then i'll find different components , and we can visit via search icon and we can search specific part which we want | and search "login form" and copy the code for our login page | 
